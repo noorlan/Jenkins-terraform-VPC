@@ -1,1 +1,2 @@
-# Jenkins-terraform-VPC
+# terraform-vpc
+Creates VPC using terraform
